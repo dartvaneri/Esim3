@@ -79,7 +79,7 @@ $db['default'] = array(
 	'username' => 'codeuser',
 	'password' => '123456',
 	'database' => 'esim3',
-	'dbdriver' => 'pdo',
+	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
 	'db_debug' => (ENVIRONMENT !== 'production'),

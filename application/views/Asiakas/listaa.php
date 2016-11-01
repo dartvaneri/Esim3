@@ -1,3 +1,6 @@
+<?php
+	print_r($Asiakkaat);
+	/*
 <h1>Asiakas-model</h1>
 <table border=1>
 	<tr>
@@ -16,4 +19,5 @@
 			';
 		}
 	?>
-</table>
+</table>*/
+?>
